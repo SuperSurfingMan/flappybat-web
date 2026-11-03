@@ -2,7 +2,7 @@ FlappyBat 网页版 —— 部署包
 ==========================
 
 【内容】
-  game.html   页面入口（含 letterbox 自适应与存档桥）
+  game.html   页面入口（含哥特月夜矢量加载动画、letterbox 自适应与存档桥）
   game.js     Emscripten 运行时
   game.wasm   游戏程序（C++ 编译的 WebAssembly）
   game.data   游戏素材（18.5MB，虚拟文件系统）
